@@ -1,6 +1,8 @@
 # react-r3f-tutorial009
 React +TypescriptのWebアプリで、React Three Fiberのtutorialその9。(OrbitControls カメラ座標制御)
 
+![](https://storage.googleapis.com/zenn-user-upload/cb4914f52301-20231224.png)
+
 # まとめ
 ## 1.dreiのインストール
 OrbitControlsは、dreiのライブラリなので、インストールしと
